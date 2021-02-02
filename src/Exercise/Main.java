@@ -73,4 +73,6 @@ public class Main {
     public static void listTrips() {
         System.out.println(patten);
     }
+
+
 }
